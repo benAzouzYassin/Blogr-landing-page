@@ -1,7 +1,7 @@
 
 function ThirdSection() {
     return (
-        <section className="flex flex-row  w-full  h-[21rem] mb-10 bg-gradient-to-br from-[#2c2d40] to-[#3d4063] rounded-bl-[150px] rounded-tr-[150px] ">
+        <section className="flex flex-row  w-full mt-16 h-[21rem] mb-10 bg-gradient-to-br from-[#2c2d40] to-[#3d4063] rounded-bl-[150px] rounded-tr-[150px] ">
             <div className="w-[40%] bg-[url('/images/bg-pattern-circles.svg')] bg-bottom bg-cover overflow-visible flex items-center justify-end">
                 <img src="/images/illustration-phones.svg" className="mt-5" height="full" width="66%" />
             </div>
