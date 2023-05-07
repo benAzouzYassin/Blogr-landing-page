@@ -1,12 +1,14 @@
 ---
 import LandingSection from '../components/LandingSection';
 import SecondSection from "../components/SecondSection"
+import ThirdSection from "../components/ThirdSection"
 import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Blogr">
 	<LandingSection client:load/>
 	<SecondSection/>
+  <ThirdSection/>
 </Layout>
 <style is:global>
 ::-webkit-scrollbar-thumb {

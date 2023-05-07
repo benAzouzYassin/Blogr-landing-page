@@ -1,8 +1,7 @@
-import React from 'react'
 
 function SecondSection() {
     return (
-        <section className="h-[100vh]  pl-64 mt-36 flex flex-col ">
+        <section className="h-[80vh]  pl-64 mt-36 flex flex-col overflow-hidden ">
             <h1 className='text-4xl text-[#233f54] ml-auto mr-auto pr-44 font-semibold '>Designed for the future</h1>
             <div className='flex '>
                 <div>
