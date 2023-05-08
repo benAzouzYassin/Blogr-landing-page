@@ -2,9 +2,9 @@ import React from "react";
 
 function FourthSection() {
   return (
-    <section className="pr-64 grid grid-cols-2 mt-20  pb-10 ">
-      <div className="bg-[url('images/illustration-laptop-desktop.svg')] bg-contain pt-96 bg-left bg-no-repeat scale-125 ml-[-7vw]"></div>
-      <div className="pt-16 w-[60%] mr-auto ml-auto">
+    <section className="lg:pr-64 grid grid-cols-1  lg:grid-cols-2 mt-20  pb-10 ">
+      <div className=" lg:bg-[url('images/illustration-laptop-desktop.svg')] bg-[url('images/illustration-laptop-mobile.svg')] bg-contain pt-96 bg-left bg-no-repeat lg:scale-125 lg:ml-[-7vw]"></div>
+      <div className="pt-16  text-center lg:text-left scale-150 lg:scale-100 w-[60%] mr-auto ml-auto">
         <h3 className="text-2xl font-medium  text-[#233f54] mb-5 ">
           Free, Open, Simple
         </h3>

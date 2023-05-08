@@ -3,7 +3,7 @@ import Navbar from "./Navbar"
 function LandingSection() {
     return (
         <section className=" h-[100vh]  bg-gradient-to-r from-[#ff806d] to-[#ff4759] rounded-bl-[150px]" >
-            <div className="lg:bg-[url('/images/bg-pattern-intro-desktop.svg')] lg:bg-cover lg:overflow-hidden lg:bg-left">
+            <div className=" bg-[url('/images/bg-pattern-intro-mobile.svg')] lg:bg-[url('/images/bg-pattern-intro-desktop.svg')] bg-cover  lg:bg-left h-full">
                 <div className="lg:pr-64 lg:pl-64 pl-5 pr-5 text-center">
                     <Navbar />
                     <main className=" flex flex-col h-[75vh] justify-center items-center">
