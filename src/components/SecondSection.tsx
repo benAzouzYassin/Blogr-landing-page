@@ -8,7 +8,7 @@ function SecondSection() {
                 <div className="flex flex-col items-center pl-10 pr-10 ">
                     <div className='mt-24 lg:w-[75%] leading-7 '>
                         <h3 className='text-3xl lg:text-2xl font-medium  text-[#233f54] text-center lg:text-left'>Introducting an extensible editor</h3>
-                        <p className='lg:first-letter:text-base text-xl     text-gray-600 mt-8 font-normal text-md lg:px-0 px-10 text-center lg:text-left'>Bloger features an exceedinglt intuitive interface which lets you focus on one thing:creating content. The editor supports management of multiple blogs and allows easy manipulation of embeds such as images, easy ways to add functionality or change the looks of a blog.</p>
+                        <p className='lg:text-base text-xl     text-gray-600 mt-8 font-normal text-md lg:px-0 px-10 text-center lg:text-left'>Bloger features an exceedinglt intuitive interface which lets you focus on one thing:creating content. The editor supports management of multiple blogs and allows easy manipulation of embeds such as images, easy ways to add functionality or change the looks of a blog.</p>
                     </div>
                     <div className='mt-16 leading-7 lg:w-[75%]'>
                         <h3 className='text-3xl lg:text-2xl font-medium  text-[#233f54] text-center lg:text-left'>Robust content management</h3>
